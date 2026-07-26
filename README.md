@@ -26,7 +26,7 @@ The pipeline is:
 
 ## Experimental protocol
 
-Three experimental scenarios, matching the thesis:
+We explore in this repository only the Experiment 3. Three experimental scenarios, matching the thesis:
 
 | Experiment | Description |
 |------------|-------------|
